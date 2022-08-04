@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(128, 128, 128, 0.199);
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+button {
+    margin: auto;
+    display: block;
+    background-color: green;
+    color: blanchedalmond;
+    border-radius: 7px;
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 20px;
+    border: none;
+}
+
+#decrement-btn {
+    background-color: blue;
+}
+
+#save-btn {
+    background: red;
+}
